@@ -1,2 +1,2 @@
-JAVASCRIPT- Calender
+JAVASCRIPT- Calendar
 ![Uploading image.png…]()
